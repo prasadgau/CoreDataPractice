@@ -1,0 +1,2 @@
+# CoreDataPractice
+Coredata Sample application
